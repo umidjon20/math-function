@@ -72,39 +72,3 @@ console.log(res5)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// function pow(x, n){
-//     let num = +prompt('Enter number')
-//     let num2 = +prompt('Enter number')
-//     if(x == num && n == num2){
-//         alert(num ** num2)
-//     }else{
-//         alert('')
-//     }
-//     return x ** n
-// }
-//   pow()
-
-
-
-// function sqrt(){
-//     let x = +prompt('Enter number')
-//     let num = Math.sqrt(x)
-//     alert(num)
-// }
-
-// sqrt()
