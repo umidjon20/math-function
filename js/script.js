@@ -62,10 +62,10 @@ console.log(res4)
 //  matth trunc
 function trunc(x){
 
-    return x.toFixed(0)
+    return x- (x %1)
  }
  
-let res5 = round(12.3)
+let res5 = trunc(12.3)
 console.log(res5)
 
 
